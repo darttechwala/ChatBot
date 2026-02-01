@@ -1,0 +1,44 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+# Flutter/Dart/Pub related
+.dart_tool/
+.packages
+.pub/
+.pub-cache/
+build/
+
+# Flutter tool
+.flutter-plugins
+.flutter-plugins-dependencies
+
+# IDE / Editors
+.idea/
+.vscode/
+*.iml
+*.ipr
+*.iws
+
+# OS generated
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Optional: Android build outputs
+android/app/debug
+android/app/profile
+android/app/release
+
+# Optional: iOS build outputs
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/Flutter/App.framework
+ios/Flutter/Generated.xcconfig
+ios/Flutter/ephemeral/
+ios/Pods/
+ios/.symlinks/
+
+/.vs
