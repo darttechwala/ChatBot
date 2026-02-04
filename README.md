@@ -1,4 +1,5 @@
 Chatbot - AI chat assistant
+--
 
 This project uses a fully open-source AI stack to provide:
 
