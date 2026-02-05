@@ -12,12 +12,13 @@ This project uses a fully open-source AI stack to provide:
 🌐 FastAPI backend 
 
 
+Search the below main url and Replace it with your python API url
+
+        "https://c62110d25f81.ngrok-free.app/chat-stream"
+
+
 Python Bcakend API 
 --
 
 https://github.com/darttechwala/ChatbotAPI
 
-
-Search the below main url and Replace it with your python API url
-
-        "https://c62110d25f81.ngrok-free.app/chat-stream"
